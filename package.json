@@ -1,6 +1,6 @@
 {
   "name": "webpack-library-starter",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Produce universal library with webpack and es6",
   "main": "lib/library.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/krasimir/webpack-library-starter.git"
+    "url": "https://github.com/veryevilzed/"
   },
   "keywords": [
     "webpack",
@@ -21,12 +21,12 @@
     "umd",
     "commonjs"
   ],
-  "author": "Krasimir Tsonev",
+  "author": "Dmitry Vysochin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krasimir/webpack-library-starter/issues"
+    "url": "https://github.com/veryevilzed/"
   },
-  "homepage": "https://github.com/krasimir/webpack-library-starter",
+  "homepage": "https://github.com/veryevilzed/",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
